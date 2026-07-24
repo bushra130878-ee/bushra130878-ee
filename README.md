@@ -49,4 +49,34 @@ I won't claim I have it all figured out — but I will say this:
 ## 🌱 My Learning Journey
 
 My journey in Electrical Engineering is not a straight line —
-it's a rollercoaster of **curiosity, confusion, breakthr
+it's a rollercoaster of curiosity, confusion, breakthroughs and beautiful mistakes . 
+🎢
+
+I open a circuit and it doesn't work.
+I write code and it throws errors.
+I simulate and the output surprises me.
+But every single time — I figure it out. 💡
+
+I fall. I struggle. I stay up late trying to understand what went wrong.
+And then something clicks — and that one moment makes every hard night worth it. ✨
+
+I'm not racing anyone.
+I'm not pretending to know what I don't.
+I'm just a girl named Bushra who picked Electrical Engineering
+and discovered that it keeps gifting her
+new challenges, new concepts, and new versions of herself. 🔌
+
+Every mistake I make is proof that I'm trying.
+Every confusion I face is a door I haven't opened yet.
+And every time I fall — I get back up with
+more fire, more focus, and more faith in myself. 🔥
+
+Because that's what engineers do.
+They don't give up.
+They debug, redesign, and try again. ⚡
+
+---
+
+## 📫 Let's Connect & Grow Together!
+
+I'm open to learning, collaborating, and growing with people who share the same hunger for knowledge. Feel free to explore my projects — and if you have feedback, I'm always ready to learn! 🌟
