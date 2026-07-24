@@ -1,16 +1,52 @@
-## Hi there 👋
+# ⚡ Hi, I'm Bushra!
+### Electrical Engineering Student | Hardware Meets Code
 
-<!--
-**bushra130878-ee/bushra130878-ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"I may not know it all yet — but every mistake brings me one step closer to the engineer I'm meant to become."*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I'm Bushra — an Electrical Engineering student who believes that the best way to learn is to **dive in, make mistakes, and rise back up stronger every single time.**
+
+I won't claim I have it all figured out — but I will say this:
+**Electrical Engineering has never stopped opening new doors for me, and I intend to walk through every single one of them.** 🚪✨
+
+---
+
+## 🛠️ Skills & Tools
+
+| Tool / Language | What I Use It For |
+|---|---|
+| ⚙️ C++ | Logic & Embedded Programming |
+| 🐍 Python | Learning & Growing Every Day |
+| 🔬 Proteus | Circuit Design & Simulation |
+| 🤖 Arduino | Hardware Prototyping & Real Builds |
+| 📐 Circuit Analysis | From Schematic to Simulation |
+
+---
+
+## 📂 What You'll Find Here
+
+- ✅ Proteus simulation projects
+- ✅ Arduino-based hardware builds
+- ✅ C++ programs & embedded logic
+- ✅ Python scripts & experiments
+- ✅ EE concepts brought to life
+
+---
+
+## 📚 Currently Exploring in EE
+
+- ⚡ Circuit Design & Analysis
+- 🔋 Electronics & Power Systems
+- 📡 Signals & Systems
+- 🧠 Embedded Systems & Microcontrollers
+- 🌐 Slowly stepping into IoT & Automation
+
+---
+
+## 🌱 My Learning Journey
+
+My journey in Electrical Engineering is not a straight line —
+it's a rollercoaster of **curiosity, confusion, breakthr
